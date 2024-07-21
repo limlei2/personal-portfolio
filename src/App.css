@@ -51,6 +51,11 @@ nav.navbar {
   transition: 0.32 ease-in-out;
 }
 
+.nav-container {
+  position: relative;
+  display: flex;
+}
+
 nav.navbar.scrolled {
   padding: 0px 0;
   background-color: #121212;
